@@ -1,0 +1,15 @@
+# API keys and secrets
+.env
+config.py
+*_key.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
